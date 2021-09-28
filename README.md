@@ -1,4 +1,9 @@
-# airbnb Clone ✈️
+# airbnb Clone ✈️ 
+
+Deployed Link: https://airbnb-rosy.vercel.app/
+
+<img src="https://raw.githubusercontent.com/HarshitAditya27/Pictures-for-Projects/master/Screenshot%20(1411).png?token=ARCJSM5KKUJPUT6HVXNHFVLBLSYDK">
+
 ## Introduction 
 Created an frontend airbnb clone using React and Next.JS. This clone includes features like calender, map, sliding animations and much more. I have used MapBox Api to integrate Map in this web site. 
 
