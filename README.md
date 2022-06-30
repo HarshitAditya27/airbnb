@@ -2,7 +2,8 @@
 
 Deployed Link: https://airbnb-rosy.vercel.app/
 
-<img src="https://raw.githubusercontent.com/HarshitAditya27/Pictures-for-Projects/master/Screenshot%20(1411).png?token=ARCJSM5KKUJPUT6HVXNHFVLBLSYDK">
+
+![Screenshot (1411)](https://user-images.githubusercontent.com/71604531/176616406-f47e496a-fdfd-4c74-91fa-372f5b48d047.png)
 
 ## Introduction 🐱‍💻
 Created an frontend airbnb clone using React and Next.JS. This clone includes features like calender, map, sliding animations and much more. I have used MapBox Api to integrate Map in this project. 
@@ -29,7 +30,7 @@ Created an frontend airbnb clone using React and Next.JS. This clone includes fe
 
 ## Installation 🛠️
   Step 1: Fork the repository. You can fork the repository by clicking on the fork button on the right hand side below the profile.<br> <br>
-<img src="https://raw.githubusercontent.com/HarshitAditya27/Pictures-for-Projects/master/Screenshot%20(1432).png?token=ARCJSM67SVMBPDPQEYOYHC3BLUNQM"> 
+![Screenshot (1432)](https://user-images.githubusercontent.com/71604531/176616493-ecba4efe-4ad7-44af-aacc-0ef2aa4a8683.png) 
   <br> <br>
   Step 2: Clone your forked repository. Replace yourusername with your GitHub Username. 
   
@@ -64,9 +65,11 @@ npm run dev
 Hurray 🥳, you successfully deployed the project in your local machine 🎉. 
   
   ## Screenshots 
-  <img src="https://raw.githubusercontent.com/HarshitAditya27/Pictures-for-Projects/master/Screenshot%20(1412).png?token=ARCJSM7Z6YYTJOQUUP7AITLBLUSNE"> 
-  <img src="https://raw.githubusercontent.com/HarshitAditya27/Pictures-for-Projects/master/Screenshot%20(1416).png?token=ARCJSM3TG3G4UC5VUVJ2RLTBLUSNW"> 
-  <img src="https://raw.githubusercontent.com/HarshitAditya27/Pictures-for-Projects/master/Screenshot%20(1418).png?token=ARCJSM6NBFWO2ZLJ2P677STBLUSOG"> 
+   ![Screenshot (1412)](https://user-images.githubusercontent.com/71604531/176616629-35cc7f24-9992-4c04-a763-33b9347dda66.png)
+![Screenshot (1416)](https://user-images.githubusercontent.com/71604531/176616684-b8240343-9ca4-45db-bd19-df7d2f506bc7.png)
+![Screenshot (1418)](https://user-images.githubusercontent.com/71604531/176616731-99122a4e-8bef-49a0-80b0-ec0e48695853.png)
+   
+ 
   
   ## Loved the project 💖? 
   
